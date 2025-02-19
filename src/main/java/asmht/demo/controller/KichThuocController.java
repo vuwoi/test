@@ -42,5 +42,6 @@ public class KichThuocController {
         ktrp.deleteById(id);
         return "redirect:/api/kt/ht";
     }
+
 }
 
